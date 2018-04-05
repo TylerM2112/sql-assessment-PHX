@@ -1,0 +1,26 @@
+{
+  "name": "sql-assessment-PHX",
+  "version": "1.0.0",
+  "description": "----",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerM2112/sql-assessment-PHX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerM2112/sql-assessment-PHX/issues"
+  },
+  "homepage": "https://github.com/TylerM2112/sql-assessment-PHX#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "massive": "^4.7.1"
+  }
+}
